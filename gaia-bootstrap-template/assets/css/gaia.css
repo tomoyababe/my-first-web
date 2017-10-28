@@ -971,6 +971,7 @@ a,
   display: block;
   padding: 0 15px;
   text-align: center;
+  font-family:"微软雅黑"
 }
 .section .title-area .description {
   font-size: 16px;
@@ -1962,7 +1963,7 @@ a,
   background: #FFFFFF;
 }
 
-.card-plain {
+.card-plai {
   border-radius: 0;
   box-shadow: none;
   background: none;
