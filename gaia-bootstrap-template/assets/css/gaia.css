@@ -971,7 +971,6 @@ a,
   display: block;
   padding: 0 15px;
   text-align: center;
-  font-family:"微软雅黑"
 }
 .section .title-area .description {
   font-size: 16px;
@@ -2503,7 +2502,7 @@ a,
 .section-header-freebie .text-description,
 .section-our-team-freebie .text-description {
   color: #fff;
-  margin: 40px auto;
+  margin: 0px auto;
   max-width: 760px;
 }
 .section-get-started .text-white,
