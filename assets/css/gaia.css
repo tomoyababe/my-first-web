@@ -228,6 +228,7 @@ a:hover {
   text-align: center;
   position: relative;
 }
+
 .separator:before, .separator:after {
   display: block;
   width: 40%;
@@ -2336,7 +2337,7 @@ a,
 }
 
 .pic:hover{
-	transform: scale(1.05);
+	transform: scale(1.15);
 	transition: 0.3s;
 }
 .description {
