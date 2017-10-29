@@ -252,6 +252,7 @@ a:hover {
 p.description {
   font-size: 16px;
   color: #777777;
+  font-family: "微软雅黑";
 }
 
 a:hover, a:focus {
@@ -948,7 +949,7 @@ a,
 }
 
 .section {
-  padding: 50px 0;
+  padding: 1px 0;
   position: relative;
   background-color: #FFFFFF;
 }
@@ -2334,6 +2335,10 @@ a,
   width: 360px;
 }
 
+.pic:hover{
+	transform: scale(1.05);
+	transition: 0.3s;
+}
 .description {
   margin-bottom: 20px;
 }
@@ -2597,7 +2602,7 @@ a,
 
 .section-our-team-freebie .container {
   margin-top: 14vh;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 .card p {
